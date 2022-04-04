@@ -14,11 +14,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./public/screenshot.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](Link)
+- Live Site URL: [Link](https://coding-bootcamp-testimonials-jet.vercel.app/)
 
 ## My process
 
@@ -35,8 +35,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Personal Website](personal-portfolio-six-flax.vercel.app/)
-- LinkedIN - [Emi Acerbi](https://www.linkedin.com/in/emiliano-acerbi-7a7141235/)
+- Website - [Personal Website](https://personal-portfolio-six-flax.vercel.app/)
+- LinkedIn - [Emi Acerbi](https://www.linkedin.com/in/emiliano-acerbi-7a7141235/)
 
 ## Acknowledgments
 
